@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/saroz__cdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saroz__cdr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saroj-cdr-2aa17b293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saroj-cdr-2aa17b293" height="30" width="40" /></a>
-<a href="https://fb.com/sarozyt.dec10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarozyt.dec10" height="30" width="40" /></a>
+<a href="https://fb.com/sarojyt.cdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarojyt.cdr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,5 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saroj-cdr&show_icons=true&locale=en" alt="saroj-cdr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saroj-cdr&" alt="saroj-cdr" /></p>
+
 
 
