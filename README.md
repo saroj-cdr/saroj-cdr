@@ -1,3 +1,5 @@
+![logo](https://github.com/saroj-cdr/saroj-cdr/blob/main/kk.png)
+
 <h1 align="center">Hi 👋, I'm Saroj</h1>
 <h3 align="center">I'm a passionate full stack developer from Nepal, skilled in HTML, CSS, JavaScript, and frameworks like React and Node.js. I focus on creating user-friendly, responsive, and accessible websites and applications, delivering smooth experiences across devices. Continuously learning and improving, I aim to contribute to the tech community and build impactful digital solutions.</h3>
 
